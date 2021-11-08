@@ -1,0 +1,7 @@
+This is a little rope simulator inspired by Sebastian Lague's implementation.
+
+Click to create a point.  Click a point to select it.  While a point is selected, the next selected (or created) point will connect to that point.
+
+Right-click a point to mark it as locked.  Right-click it again to unlock it.
+
+Click the red button in the corner to begin the simulation.
